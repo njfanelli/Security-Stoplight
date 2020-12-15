@@ -11,7 +11,7 @@
 <li>Funding Completed - This displays a list of all the projects completed.</li>
 </ul>
 </ol>
-<p>NOTE: This tab has logic built in to auto update itself based on the data entered into the Project List tab so the user will not be required to do much on this tab other than change Name, Logo and Date.</p>
+<p>NOTE: This tab has logic to auto update itself based on the data entered into the Project List tab so the user will not be required to do much on this tab other than change Name, Logo and Date.</p>
 <ol>
 <li>"Project List" - This is the critical to the overall tool and drives the data visualizations in the Stoplight tab.&nbsp; This worksheet contains the following attributes to be tracked for any project:</li>
 <ul style="list-style-type: circle;">
